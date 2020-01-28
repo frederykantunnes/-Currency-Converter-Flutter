@@ -1,7 +1,8 @@
 # flutter_currency_converter
 
  Currency converter application developed with Flutter - Exercises
- Consuming api: hgbrasil.com - Currency value.
+ 
+ - Consuming api: hgbrasil.com - Currency value.
 
 ## Getting Started
 
